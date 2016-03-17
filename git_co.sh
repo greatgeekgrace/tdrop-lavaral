@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/zsh
 git pull
 git add .
 git commit -m $1
